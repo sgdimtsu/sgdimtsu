@@ -1,5 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently learning data analysis methods	
 
+😄 Pronouns: she/her
+ 
 <!--
 **sgdimtsu/sgdimtsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
